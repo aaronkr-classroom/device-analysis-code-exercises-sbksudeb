@@ -1,5 +1,6 @@
 # code-and-exercises
 Repository for code and exercises
- [week9-https:]//wokwi.com/projects/462704143650289665
-[week10-https:]//wokwi.com/projects/463339294988026881
-[DHT22]https://wokwi.com/projects/464313777196020737
+ [week9-https://wokwi.com/projects/462704143650289665]
+[week10-https://wokwi.com/projects/463339294988026881]
+[DHT22-https://wokwi.com/projects/464313777196020737]
+[BH1750-https://wokwi.com/projects/464314546059191297]
